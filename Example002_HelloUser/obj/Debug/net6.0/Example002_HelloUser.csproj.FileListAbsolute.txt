@@ -1,0 +1,15 @@
+E:\AlexDocsForeverRazbor\ДОКУМЕНТЫ\GeekBrains\ЗнакомствоСЯзыкамиПрограммирования\Лекция1\Progs\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.exe
+E:\AlexDocsForeverRazbor\ДОКУМЕНТЫ\GeekBrains\ЗнакомствоСЯзыкамиПрограммирования\Лекция1\Progs\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.deps.json
+E:\AlexDocsForeverRazbor\ДОКУМЕНТЫ\GeekBrains\ЗнакомствоСЯзыкамиПрограммирования\Лекция1\Progs\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.runtimeconfig.json
+E:\AlexDocsForeverRazbor\ДОКУМЕНТЫ\GeekBrains\ЗнакомствоСЯзыкамиПрограммирования\Лекция1\Progs\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.dll
+E:\AlexDocsForeverRazbor\ДОКУМЕНТЫ\GeekBrains\ЗнакомствоСЯзыкамиПрограммирования\Лекция1\Progs\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.pdb
+E:\AlexDocsForeverRazbor\ДОКУМЕНТЫ\GeekBrains\ЗнакомствоСЯзыкамиПрограммирования\Лекция1\Progs\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.AssemblyReference.cache
+E:\AlexDocsForeverRazbor\ДОКУМЕНТЫ\GeekBrains\ЗнакомствоСЯзыкамиПрограммирования\Лекция1\Progs\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+E:\AlexDocsForeverRazbor\ДОКУМЕНТЫ\GeekBrains\ЗнакомствоСЯзыкамиПрограммирования\Лекция1\Progs\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfoInputs.cache
+E:\AlexDocsForeverRazbor\ДОКУМЕНТЫ\GeekBrains\ЗнакомствоСЯзыкамиПрограммирования\Лекция1\Progs\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfo.cs
+E:\AlexDocsForeverRazbor\ДОКУМЕНТЫ\GeekBrains\ЗнакомствоСЯзыкамиПрограммирования\Лекция1\Progs\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+E:\AlexDocsForeverRazbor\ДОКУМЕНТЫ\GeekBrains\ЗнакомствоСЯзыкамиПрограммирования\Лекция1\Progs\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.dll
+E:\AlexDocsForeverRazbor\ДОКУМЕНТЫ\GeekBrains\ЗнакомствоСЯзыкамиПрограммирования\Лекция1\Progs\Example002_HelloUser\obj\Debug\net6.0\refint\Example002_HelloUser.dll
+E:\AlexDocsForeverRazbor\ДОКУМЕНТЫ\GeekBrains\ЗнакомствоСЯзыкамиПрограммирования\Лекция1\Progs\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.pdb
+E:\AlexDocsForeverRazbor\ДОКУМЕНТЫ\GeekBrains\ЗнакомствоСЯзыкамиПрограммирования\Лекция1\Progs\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.genruntimeconfig.cache
+E:\AlexDocsForeverRazbor\ДОКУМЕНТЫ\GeekBrains\ЗнакомствоСЯзыкамиПрограммирования\Лекция1\Progs\Example002_HelloUser\obj\Debug\net6.0\ref\Example002_HelloUser.dll
